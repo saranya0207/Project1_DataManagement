@@ -21,7 +21,7 @@ All three models achieved strong performance on the Iris dataset. The reported m
 - Random Forest: accuracy 0.9565, precision 0.9644, recall 0.9565, F1-score 0.9571.
 - Logistic Regression: accuracy 0.9783, precision 0.9804, recall 0.9783, F1-score 0.9785.
 
-Logistic Regression was the best-performing model overall. Its strong performance suggests that the Iris dataset is relatively clean and well-structured, with class boundaries that are close to linearly separable.
+Logistic Regression was the best performing model overall. It's strong performance suggests that the Iris dataset is relatively clean and well-structured, with class boundaries that are close to linearly separable.
 
 ## How to Reproduce
 1. Open the notebook in Google Colab or a Jupyter environment with PySpark support.
