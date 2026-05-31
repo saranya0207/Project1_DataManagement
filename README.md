@@ -17,9 +17,11 @@ The dataset is split into training and testing sets using a 70/30 split with a f
 ## Results and Key Findings
 All three models achieved strong performance on the Iris dataset. The reported metrics are:
 
-- Decision Tree: accuracy 0.9348, precision 0.9411, recall 0.9348, F1-score 0.9356.
-- Random Forest: accuracy 0.9565, precision 0.9644, recall 0.9565, F1-score 0.9571.
-- Logistic Regression: accuracy 0.9783, precision 0.9804, recall 0.9783, F1-score 0.9785.
+| Model | Accuracy | Precision | Recall | F1-Score |
+|---|---:|---:|---:|---:|
+| Decision Tree | 0.9348 | 0.9411 | 0.9348 | 0.9356 |
+| Random Forest | 0.9565 | 0.9644 | 0.9565 | 0.9571 |
+| Logistic Regression | 0.9783 | 0.9804 | 0.9783 | 0.9785 |
 
 Logistic Regression was the best performing model overall. It's strong performance suggests that the Iris dataset is relatively clean and well-structured, with class boundaries that are close to linearly separable.
 
