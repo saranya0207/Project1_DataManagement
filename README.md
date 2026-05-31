@@ -38,5 +38,5 @@ Logistic Regression was the best-performing model overall. Its strong performanc
 - Google Colab or a Spark-enabled local environment
 
 ## Project Structure
-- `Project1_DataManagement-1.ipynb`: Main notebook for the analysis.
+- `Project1_DataManagement.ipynb`: Main notebook for the analysis.
 - `iris.csv`: Dataset used for training and testing.
